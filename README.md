@@ -14,7 +14,7 @@ Volante: Volante caseiro impresso em 3D, inspirado no design dos volantes dos hy
 
 ## Volante Porsche Penske
 
-<img src="IMG-20240804-WA0012.jpg">
+<img src="Fotos e videos do projeto/IMG-20240804-WA0012.jpg">
 
 Este volante foi modelado com base no volante dos hypercars da Porsche Penske, equipe de corridas de endurance (WEC).
 Tudo foi impresso em 3D usando filamento PLA em uma impressora Creality Ender V3
