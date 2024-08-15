@@ -1,42 +1,23 @@
 # Volante FFB Caseiro
 
-<img src="IMG-20240804-WA0012.jpg" alt="Exemplo 3D do volante">
+<img src="" alt="">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Este projeto tem como objetivo construir um simulador de corrida profissional de forma caseira. 
 
-### Ajustes e melhorias
+## Descrição do Projeto
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+Torque: 20nm
+Força no pedal de freio: 80kg (será aumentada para 150kg)
+Peso total: 3kg
+Resolução do Encoder: 600 P/R (Pulsos por Rotação)
+Volante: Volante caseiro impresso em 3D, inspirado no design dos volantes dos hypercarros da Porsche Penske.
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+## Volante Porsche Penske
 
-## 💻 Pré-requisitos
+<img src="IMG-20240804-WA0012.jpg">
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
-
-- Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-- Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-- Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
-
-## 🚀 Instalando <nome_do_projeto>
-
-Para instalar o <nome_do_projeto>, siga estas etapas:
-
-Linux e macOS:
-
-```
-<comando_de_instalação>
-```
-
-Windows:
-
-```
-<comando_de_instalação>
-```
+Este volante foi modelado com base no volante dos hypercars da Porsche Penske, equipe de corridas de endurance (WEC).
+Tudo foi impresso em 3D usando filamento PLA em uma impressora Creality Ender V3
 
 ## ☕ Usando <nome_do_projeto>
 
